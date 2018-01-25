@@ -1,0 +1,47 @@
+
+
+/* ==================== Title section styling ==================== */
+
+
+.jumbotron {
+	text-align: center;
+	background-color:#ddd6f3;
+	color:white;
+}
+
+/* ==================== Current Train Schedule + Add Train panel heading styling ==================== */
+
+#schedule,
+#add {
+	background-color:#ddd6f3;
+	color:white;
+}
+
+/* ==================== User Input styling ==================== */
+
+#train-name-input,
+#destination-input,
+#train-time-input,
+#frequency-input {
+	cursor:text;
+}
+
+
+
+/* ==================== Submit Button Styling ==================== */
+
+#submit-button {
+	background-color:#f7b733;
+	outline:none;
+	border:none;
+	color:#4b1248;
+}
+
+#submit-button:hover {
+	background-color:#ddd6f3;
+	color:white;
+	cursor:pointer;
+}
+
+
+	
